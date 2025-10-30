@@ -1,3 +1,6 @@
 [submodule "cloudethix_anandsbhavik"]
 	path = cloudethix_anandsbhavik
 	url = https://github.com/ciphernerd11/cloudethix_anandsbhavik.git
+[submodule "system-scripts"]
+	path = system-scripts
+	url = https://github.com/ciphernerd11/system-scripts.git
